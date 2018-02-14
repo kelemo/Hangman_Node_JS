@@ -1,0 +1,20 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "Building the hangman game using the node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "hangman",
+    "node",
+    "js"
+  ],
+  "author": "Kadiro E",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "prompt": "^1.0.0"
+  }
+}
